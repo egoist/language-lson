@@ -7,6 +7,7 @@
   'jshintrc'
   'jslintrc'
   'json'
+  'lson'
   'jsonl'
   'ldj'
   'ldjson'
@@ -14,7 +15,7 @@
   'webapp'
   'config'
 ]
-'name': 'JSON //'
+'name': 'LSON'
 'patterns': [
   {
     'include': '#comments'

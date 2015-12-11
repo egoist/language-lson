@@ -10,5 +10,8 @@ Forked from [language-json](https://github.com/atom/language-json) and
 Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the [JSON TextMate bundle](https://github.com/textmate/json.tmbundle).
 
+Support `.json` `.lson` and some `*rc` files.
+
 ## License
-See [LICENSE.md](https://github.com/clintwood/language-json/blob/master/LICENSE.md)
+
+MIT &copy; [EGOIST](https://github.com/egoist)

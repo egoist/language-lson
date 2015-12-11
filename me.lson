@@ -1,0 +1,10 @@
+{
+  // start with comments? ok
+  "name": "egoist", // who?
+  "gender": /* trust me */ "girl",
+  "bio": "el psy congroo"
+  /* what the duck?
+   * No idea...
+   * Bye!
+  **/
+}

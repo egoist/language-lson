@@ -1,18 +1,18 @@
 {
-  "name": "language-json-comments",
-  "version": "0.16.3",
-  "description": "JSON language with comments support in Atom",
+  "name": "language-lson",
+  "version": "0.1.0",
+  "description": "Lazy-JSON: JSON language with comments support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clintwood/language-json-comments.git"
+    "url": "https://github.com/egoist/language-lson.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clintwood/language-json-comments/issues"
+    "url": "https://github.com/egoist/language-lson/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
