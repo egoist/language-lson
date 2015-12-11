@@ -12,6 +12,8 @@ from the [JSON TextMate bundle](https://github.com/textmate/json.tmbundle).
 
 Support `.json` `.lson` and some `*rc` files.
 
+![preview](http://ww4.sinaimg.cn/large/a15b4afegw1eyvnwjkkf3j20co0c1ab0)
+
 ## License
 
 MIT &copy; [EGOIST](https://github.com/egoist)

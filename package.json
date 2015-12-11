@@ -1,6 +1,6 @@
 {
   "name": "language-lson",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "Lazy-JSON: JSON language with comments support in Atom",
   "engines": {
     "atom": "*",
